@@ -1,7 +1,7 @@
 # antibiotic_and_media
 For the calculations involved in the preparation of antibiotic selective media. This includes stock concentrations, media mass and volume and dilution calculations of antibiotic in media
 
-The script antibiotic_and_media_calculations.py has three parts:
+The script ***antibiotic_and_media_calculations.py*** has three parts:
 
 ## PART I 
 Is for the calculation of the required volume of water to be added to a specified mass of antibiotic.
