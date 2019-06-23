@@ -58,4 +58,4 @@ v2 = v_plates_total # units are (mL)
 # present the final volume v2
 v1 = (c2*v2)/c1
 print('\nPART III Antibiotic in the Agar mix -----------')
-print('Antibiotic volume of stock contentration: {} mL'.format(v1))
+print('Antibiotic volume of stock concentration: {} mL'.format(v1))
