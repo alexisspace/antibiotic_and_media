@@ -15,7 +15,8 @@ The relevant variables are:
 
 ## PART II 
 Is for media calculations, relevant variables are:
-`lb_agar_concentration` (mg/mL): this is provided by the media manufacturer, the amount of mass per milliliter of water. See http://www.the-odin.com/lb-agar/ for an example
+`lb_agar_concentration` (mg/mL): this is provided by the media manufacturer, the amount of mass per milliliter of water. See http://www.the-odin.com/lb-agar/ for an example.
+
 `v_plate` (mL): The volume of the plates you are working with.
 
 `n_plates` (number of plates desired to fill): The number of plates you want to fill with media.
