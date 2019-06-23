@@ -25,7 +25,7 @@ Is for media calculations, relevant variables are:
 
 ***The result of this part is the necessary mass of media to be added to the total volume of media (calculated or hardcoded)***
 
-## PART II 
+## PART III 
 Is for the calculation of the required volume of antibiotic in stock concentration form to be present in the total volume of media required, relevant variables are:
 
 `c1` (mg/mL): Antibiotic stock concentration, this value is set to value given in PART I but you can change it if you want to use this part of the code independently for the other ones.
