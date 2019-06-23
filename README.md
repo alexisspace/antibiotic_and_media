@@ -9,7 +9,7 @@ The relevant variables are:
 
 `stock_concentration` (mg/mL): This the standard recommended stock concentration given by the manufacturer. See https://www.addgene.org/mol-bio-reference/#antibiotics for a list of standard stock concentrations in several antibiotics.
 
-`antibiotic_mass` (mg): This is the mass you want to use for the mix in stock concentration. The advantage is that you don’t need to use all the powder antibiotic you have at the same time given the fact that some antibiotics are more stable in powder form.
+`antibiotic_mass` (mg): This is the mass you want to use for the mix in stock concentration. The advantage is that you don’t need to use all the powder antibiotic you have at once, given the fact that some antibiotics are more stable in powder form.
 
 ***The result of this part is the amount of water you have to add to the given mass of antibiotic you want to save in stock concentration***
 
